@@ -1,4 +1,4 @@
-public class Main {
+public class Mmeli {
   public static void main(String[] args) {
     System.out.println("Mmeli Ntshakala test")
       }
